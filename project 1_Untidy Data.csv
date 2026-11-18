@@ -1,18 +1,18 @@
 Name,Registration Number,Address,Programming,Maths,Excel,Total,Average,Grade
-                   JANE DOE,10001,Coursera - USA,60,70,65,195,65,b
+Jane Doe,10001,Coursera - USA,60,70,65,195,65,B
 John Doe,10002,Coursera - USA,75,67,56,198,66,B
-Halima Abdi,10003,Nairobi - Kenya,50,50,67,167,55.66666667,c
-Bruce     Lee,10004,Tokyo - Japan                 ,55,67,89,211,70.33333333,b
-    Jane  Foster,10005,New Delhi - India,45,90,67,202,67.33333333,b
-Daisy     Rose,10006,Coursera - USA,9,10,8,27,9,e
-Halima Abdi,10003,Nairobi - Kenya,50,50,67,167,55.66666667,c
-        Naomi Watts ,10008,Ohio - USA,50,50,50,150,50,c
-WILL SMITH,10009,Cape Town - South Africa               ,60,50,60,170,56.66666667,a
-Maina Mwangi,10010,Pretoria - South Africa,60,70,80,210,70,b
-Alice Ali,10011,Nairobi - Kenya,80,70,76,226,75.33333333,a
-WILL SMITH,10009,Cape Town - South Africa               ,60,50,60,170,56.66666667,a
-      Hassan Minhaj,10013,London - England,59,68,59,186,62,a
-Martin Senior,10007,Nairobi - Kenya               ,46,45,51,142,47.33333333,d
-JANE         ROGERS,10015,Tokyo - Japan,38,56,34,128,42.66666667,D
-Martin Junior,10014,Nairobi - Kenya,50,45,55,150,50,d
-              Sally Patel,10016,Mumbai - India,5,6,7,18,6,e
+Halima Abdi,10003,Nairobi - Kenya,50,50,67,167,56,C
+Bruce Lee,10004,Tokyo - Japan                 ,55,67,89,211,70,B
+Jane Foster,10005,New Delhi - India,45,90,67,202,67,B
+Daisy Rose,10006,Coursera - USA,9,10,8,27,9,E
+Halima Abdi,10003,Nairobi - Kenya,50,50,67,167,56,C
+Naomi Watts,10008,Ohio - USA,50,50,50,150,50,C
+Will Smith,10009,Cape Town - South Africa               ,60,50,60,170,57,A
+Maina Mwangi,10010,Pretoria - South Africa,60,70,80,210,70,B
+Alice Ali,10011,Nairobi - Kenya,80,70,76,226,75,A
+Will Smith,10009,Cape Town - South Africa               ,60,50,60,170,57,A
+Hassan Minhaj,10013,London - England,59,68,59,186,62,A
+Martin Senior,10007,Nairobi - Kenya               ,46,45,51,142,47,D
+Jane Rogers,10015,Tokyo - Japan,38,56,34,128,43,D
+Martin Junior,10014,Nairobi - Kenya,50,45,55,150,50,D
+Sally Patel,10016,Mumbai - India,5,6,7,18,6,E
